@@ -1,4 +1,4 @@
 # Platformer
 
 To Run on a WINDOWS MACHINE download the platformer.zip file in the release folder, extract it and run the .exe
-if it doesnt work....
+you have to ignore windows and google telling you it's dangerous xD
