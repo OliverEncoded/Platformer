@@ -1,0 +1,43 @@
+﻿  Platformer.cpp
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(141,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(147,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(148,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(155,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(158,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(161,92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(171,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(190,49): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(207,53): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(240,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(247,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(251,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(254,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\socks\source\repos\Platformer\Platformer\Platformer.cpp(259,24): warning C4305: '=': truncation from 'double' to 'float'
+  Platformer.vcxproj -> C:\Users\socks\source\repos\Platformer\Debug\Platformer.exe
