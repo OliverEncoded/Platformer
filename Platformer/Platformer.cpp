@@ -197,7 +197,7 @@ int main()
             canJump = true;
         }
 
-        //if platform player is on is of type 1 (the one that breaks) then start timer
+        //if platform player is on a platform then check the type and do stuff acordingly
         if (playerOnPlatform(player, platforms, velY) && getPLatformPlayerOnIndex(player, platforms) != -1)
         {
             int platformI = getPLatformPlayerOnIndex(player, platforms);
