@@ -62,7 +62,7 @@ bool playerOnPlatform(sf::RectangleShape player, std::vector<Platform> platforms
         {
             if (platforms[i].enabled && velY >= 0)
             {
-                return (platforms[i].enabled && velY >= 0);
+                return true;
             }
         }
     }
